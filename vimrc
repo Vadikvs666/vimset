@@ -20,7 +20,7 @@ Plug 'othree/html5.vim'
 Plug 'hail2u/vim-css3-syntax'
 Plug 'vim-scripts/L9'
 Plug 'stanangeloff/php.vim'
-Plug 'altercation/vim-colors-solarized'
+Plug 'ErichDonGubler/vim-sublime-monokai'
 call plug#end()
 
 
@@ -36,5 +36,5 @@ augroup VimCSS3Syntax
 
   autocmd FileType css setlocal iskeyword+=-
 augroup END
-set background=dark
-colorscheme solarized
+
+colorscheme sublimemonokai
