@@ -21,6 +21,8 @@ Plug 'hail2u/vim-css3-syntax'
 Plug 'vim-scripts/L9'
 Plug 'stanangeloff/php.vim'
 Plug 'ErichDonGubler/vim-sublime-monokai'
+Plug 'lumiliet/vim-twig'
+Plug 'sbdchd/neoformat'
 call plug#end()
 
 
